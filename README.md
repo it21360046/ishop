@@ -1,2 +1,1 @@
-# ishop
-Shopping Experience for Visually Impaired Individuals
+# VisionCart_MobileApp
